@@ -1,14 +1,15 @@
-Sales Insights
+
 Sales Insights is a powerful sales analytics tool designed to provide valuable insights and analysis for sales teams. This README file provides an overview of the Sales Insights application and instructions on how to set it up and use it effectively.
 
 Table of Contents
-Introduction
-Features
-Setup
-Usage
-Contributing
-Support
-License
+1 Introduction
+2 Features
+3 Setup
+4 Usage
+5 Contributing
+6 Support
+6 License
+
 Introduction
 Sales Insights is a web-based application that helps sales teams analyze their sales data to gain actionable insights and improve sales performance. It integrates with various data sources, such as CRM systems, sales databases, and external APIs, to collect and analyze sales data in real-time.
 
